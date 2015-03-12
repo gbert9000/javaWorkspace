@@ -6,8 +6,10 @@ import tdSwing.StrGUI;
 import tdSwing.StrModel;
 
 
+//TD1 - Fenêtre, Panel,...
 public class test {
 
+		//TD1
 	public static void main(String[] args) {
 		JFrame jf = new JFrame("Exemple Swing MVC");
 		StrModel sm = new StrModel();
@@ -21,5 +23,5 @@ public class test {
 		jf.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		jf.setVisible(true);
 	}
-
+	
 }

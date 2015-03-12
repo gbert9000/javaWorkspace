@@ -1,0 +1,4 @@
+Component pour garder en mémoire les composants.
+- public void removeLayoutComponent(Component comp) : enlever un composant : vous devez
+pouvoir retrouver un composant parmi les trois et le retirer (lui affecter null) ;
+Et les fonctions de calcul de
